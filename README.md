@@ -2,7 +2,7 @@
  
 Flying Whale Airline undertook a detailed Business Intelligence project to enhance its understanding of customer behavior and loyalty using two main sets of data: Customer Flight Activity and Customer Loyalty History. Here's a summary:
 
-#Data_Overview: The project involved analyzing two datasets: one on customer flight bookings and the other on loyalty program history, covering loyalty points, demographics, and membership details.
+Data_Overview: The project involved analyzing two datasets: one on customer flight bookings and the other on loyalty program history, covering loyalty points, demographics, and membership details.
 
 Goal: Flying Whale Airline wanted to use this data to improve customer experience, identify travel trends, and optimize its loyalty program.
 
